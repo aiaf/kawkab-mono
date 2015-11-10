@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upblock" format="1">
+  <advance width="700"/>
+  <unicode hex="2580"/>
+  <note>
+	upblock
+  </note>
+  <outline>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="1032" type="line"/>
+      <point x="700" y="1032" type="line"/>
+      <point x="700" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

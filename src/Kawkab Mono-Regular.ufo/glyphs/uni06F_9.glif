@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06F9" format="1">
+  <advance width="700"/>
+  <unicode hex="06F9"/>
+  <outline>
+    <component base="uni0669"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>nine-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>nine-ar</string>
+    </dict>
+  </lib>
+</glyph>

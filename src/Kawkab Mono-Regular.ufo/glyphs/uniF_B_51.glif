@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB51" format="1">
+  <advance width="700"/>
+  <unicode hex="FB51"/>
+  <outline>
+    <component base="wasla-ar" xOffset="3" yOffset="350" xScale="0.9" yScale="0.9"/>
+    <component base="uniFE8E"/>
+    <contour>
+      <point x="300" y="1250" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="420" y="-120" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

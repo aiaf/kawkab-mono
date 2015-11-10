@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0667" format="1">
+  <advance width="700"/>
+  <unicode hex="0667"/>
+  <outline>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="632" y="732" type="line"/>
+      <point x="604" y="732" type="line"/>
+      <point x="502" y="630" type="line"/>
+      <point x="368" y="166" type="line"/>
+      <point x="313" y="376"/>
+      <point x="246" y="602"/>
+      <point x="129" y="758" type="curve"/>
+      <point x="69" y="628" type="line"/>
+      <point x="116" y="586"/>
+      <point x="276" y="251"/>
+      <point x="319" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>67.166</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>257</integer>
+          <key>y</key>
+          <integer>-137</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>65</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>17</integer>
+          <key>y</key>
+          <integer>374</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>45</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>160</integer>
+          <key>y</key>
+          <integer>184</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

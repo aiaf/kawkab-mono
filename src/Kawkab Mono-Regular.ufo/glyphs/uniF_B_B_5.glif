@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBB5" format="1">
+  <advance width="700"/>
+  <unicode hex="FBB5"/>
+  <outline>
+    <contour>
+      <point x="533" y="-253" type="line"/>
+      <point x="446" y="-162" type="line"/>
+      <point x="361" y="-255" type="line"/>
+      <point x="449" y="-347" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="-255" type="line"/>
+      <point x="221" y="-165" type="line"/>
+      <point x="137" y="-258" type="line"/>
+      <point x="225" y="-350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

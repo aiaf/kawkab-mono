@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEB7" format="1">
+  <advance width="700"/>
+  <unicode hex="FEB7"/>
+  <outline>
+    <component base="uniFEB3"/>
+    <component base="uniFBB6" xOffset="110" yOffset="380"/>
+    <contour>
+      <point x="400" y="1010" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="414" y="-118" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

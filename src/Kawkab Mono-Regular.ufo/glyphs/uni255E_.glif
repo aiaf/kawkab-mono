@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni255E" format="1">
+  <advance width="700"/>
+  <unicode hex="255E"/>
+  <note>
+	SF360000
+  </note>
+  <outline>
+    <contour>
+      <point x="305" y="-274" type="line"/>
+      <point x="305" y="1032" type="line"/>
+      <point x="394" y="1032" type="line"/>
+      <point x="394" y="533" type="line"/>
+      <point x="700" y="533" type="line"/>
+      <point x="700" y="444" type="line"/>
+      <point x="394" y="444" type="line"/>
+      <point x="394" y="356" type="line"/>
+      <point x="700" y="356" type="line"/>
+      <point x="700" y="267" type="line"/>
+      <point x="394" y="267" type="line"/>
+      <point x="394" y="-274" type="line"/>
+    </contour>
+  </outline>
+</glyph>

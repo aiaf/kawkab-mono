@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2518" format="1">
+  <advance width="700"/>
+  <unicode hex="2518"/>
+  <note>
+	SF040000
+  </note>
+  <outline>
+    <contour>
+      <point x="0" y="356" type="line"/>
+      <point x="0" y="444" type="line"/>
+      <point x="305" y="444" type="line"/>
+      <point x="305" y="1032" type="line"/>
+      <point x="394" y="1032" type="line"/>
+      <point x="394" y="356" type="line"/>
+    </contour>
+  </outline>
+</glyph>

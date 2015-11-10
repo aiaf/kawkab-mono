@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzacenter-ar" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="uni0654" xOffset="29" yOffset="-294" xScale="0.8" yScale="0.8"/>
+  </outline>
+</glyph>

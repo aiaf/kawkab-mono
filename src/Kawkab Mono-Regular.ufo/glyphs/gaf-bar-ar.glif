@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gaf-bar-ar" format="1">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="264" y="824"/>
+      <point x="404" y="920"/>
+      <point x="574" y="1004" type="curve"/>
+      <point x="560" y="1074" type="line"/>
+      <point x="409" y="991"/>
+      <point x="267" y="894"/>
+      <point x="168" y="809" type="curve"/>
+      <point x="182" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEF3" format="1">
+  <advance width="700"/>
+  <unicode hex="FEF3"/>
+  <outline>
+    <component base="uni066E.init"/>
+    <component base="uniFBB5"/>
+    <contour>
+      <point x="350" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="380" y="-500" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

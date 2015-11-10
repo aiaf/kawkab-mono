@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEF5" format="1">
+  <advance width="700"/>
+  <unicode hex="FEF5"/>
+  <outline>
+    <component base="uniFEFB"/>
+    <component base="uni0653" xOffset="-95" yOffset="150"/>
+    <contour>
+      <point x="350" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="612" y="-110" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="630" y="1070" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="220" y="1220" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="224" y="-138" type="move" name="bottom_2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>lam_alef-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lam_alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

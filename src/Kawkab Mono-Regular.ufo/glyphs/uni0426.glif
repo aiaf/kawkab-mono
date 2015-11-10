@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0426" format="1">
+  <advance width="700"/>
+  <unicode hex="0426"/>
+  <note>
+	afii10040
+  </note>
+  <outline>
+    <contour>
+      <point x="693" y="-164" type="line"/>
+      <point x="611" y="-164" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="816" type="line"/>
+      <point x="178" y="816" type="line"/>
+      <point x="178" y="86" type="line"/>
+      <point x="499" y="86" type="line"/>
+      <point x="499" y="816" type="line"/>
+      <point x="596" y="816" type="line"/>
+      <point x="596" y="86" type="line"/>
+      <point x="693" y="86" type="line"/>
+    </contour>
+  </outline>
+</glyph>

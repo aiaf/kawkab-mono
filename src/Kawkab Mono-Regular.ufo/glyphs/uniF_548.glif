@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF548" format="1">
+  <advance width="700"/>
+  <unicode hex="F548"/>
+  <note>
+	uniF548
+  </note>
+  <outline>
+    <contour>
+      <point x="352" y="120" type="line"/>
+      <point x="365" y="120" type="line"/>
+      <point x="586" y="816" type="line"/>
+      <point x="683" y="816" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="16" y="816" type="line"/>
+      <point x="122" y="816" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="1014" type="line"/>
+      <point x="554" y="1014" type="line"/>
+      <point x="554" y="990" type="line"/>
+      <point x="364" y="877" type="line"/>
+      <point x="283" y="877" type="line"/>
+    </contour>
+  </outline>
+</glyph>

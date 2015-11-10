@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AE" format="1">
+  <advance width="700"/>
+  <unicode hex="04AE"/>
+  <note>
+	uni04AE
+  </note>
+  <outline>
+    <contour>
+      <point x="302" y="312" type="line"/>
+      <point x="10" y="816" type="line"/>
+      <point x="124" y="816" type="line"/>
+      <point x="357" y="413" type="line"/>
+      <point x="358" y="413" type="line"/>
+      <point x="585" y="816" type="line"/>
+      <point x="689" y="816" type="line"/>
+      <point x="399" y="314" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

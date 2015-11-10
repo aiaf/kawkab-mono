@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni253C" format="1">
+  <advance width="700"/>
+  <unicode hex="253C"/>
+  <note>
+	SF050000
+  </note>
+  <outline>
+    <contour>
+      <point x="305" y="-274" type="line"/>
+      <point x="305" y="354" type="line"/>
+      <point x="0" y="354" type="line"/>
+      <point x="0" y="443" type="line"/>
+      <point x="305" y="443" type="line"/>
+      <point x="305" y="1032" type="line"/>
+      <point x="394" y="1032" type="line"/>
+      <point x="394" y="443" type="line"/>
+      <point x="700" y="443" type="line"/>
+      <point x="700" y="354" type="line"/>
+      <point x="394" y="354" type="line"/>
+      <point x="394" y="-274" type="line"/>
+    </contour>
+  </outline>
+</glyph>

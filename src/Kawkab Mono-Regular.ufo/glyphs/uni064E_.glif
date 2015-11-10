@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni064E" format="1">
+  <advance width="700"/>
+  <unicode hex="064E"/>
+  <outline>
+    <contour>
+      <point x="534" y="807" type="line"/>
+      <point x="482" y="859" type="line"/>
+      <point x="166" y="729" type="line"/>
+      <point x="217" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="862" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="350" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>-45</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>187</integer>
+          <key>y</key>
+          <integer>708</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>-45</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>499</integer>
+          <key>y</key>
+          <integer>842</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

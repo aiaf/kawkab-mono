@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEC0.dad-yeh" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="uniFBB2"/>
+    <component base="uniFEBC.sad-yeh"/>
+    <contour>
+      <point x="350" y="900" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="400" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

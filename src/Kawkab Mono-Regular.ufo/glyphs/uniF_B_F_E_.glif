@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBFE" format="1">
+  <advance width="700"/>
+  <unicode hex="FBFE"/>
+  <outline>
+    <component base="uniFEF3"/>
+    <contour>
+      <point x="350" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="430" y="-430" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

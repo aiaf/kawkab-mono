@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFDF2" format="1">
+  <advance width="2800"/>
+  <unicode hex="FDF2"/>
+  <outline>
+    <contour>
+      <point x="2388" y="-38" type="line"/>
+      <point x="2462" y="140" type="line"/>
+      <point x="2462" y="890" type="line"/>
+      <point x="2332" y="764" type="line"/>
+      <point x="2372" y="-38" type="line"/>
+    </contour>
+    <component base="lellah-ar"/>
+    <contour>
+      <point x="1586" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="1982" y="-99" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="1454" y="-113" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="1350" y="1000" type="move" name="top_3"/>
+    </contour>
+    <contour>
+      <point x="687" y="-72" type="move" name="bottom_4"/>
+    </contour>
+    <contour>
+      <point x="979" y="-43" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="2422" y="1090" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="2100" y="0" type="move" name="caret_3"/>
+    </contour>
+    <contour>
+      <point x="742" y="900" type="move" name="top_4"/>
+    </contour>
+    <contour>
+      <point x="1377" y="-116" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1848" y="1090" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="2578" y="-95" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="1373" y="982" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>alef-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>heh-ar.fina</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>showMeasurements</key>
+          <true/>
+          <key>x</key>
+          <integer>700</integer>
+          <key>y</key>
+          <integer>-106</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>1400</integer>
+          <key>y</key>
+          <integer>-150</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

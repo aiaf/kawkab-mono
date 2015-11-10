@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB8F" format="1">
+  <advance width="700"/>
+  <unicode hex="FB8F"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="140" type="line"/>
+      <point x="688" y="140" type="line" smooth="yes"/>
+      <point x="665" y="140"/>
+      <point x="614" y="294"/>
+      <point x="551" y="357" type="curve"/>
+      <point x="576" y="184" type="line"/>
+      <point x="618" y="74"/>
+      <point x="655" y="0"/>
+      <point x="688" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="gaf-terminal-ar"/>
+    <component base="kaf-proper-ar"/>
+    <contour>
+      <point x="350" y="970" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="400" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

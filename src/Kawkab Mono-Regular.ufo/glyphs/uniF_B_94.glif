@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB94" format="1">
+  <advance width="700"/>
+  <unicode hex="FB94"/>
+  <outline>
+    <component base="uniFEDB"/>
+    <component base="gaf-bar-ar" xOffset="10" yOffset="10"/>
+    <contour>
+      <point x="350" y="1100" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="420" y="-110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

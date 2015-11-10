@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBFD.seen-yeh" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="uniFEF0.seen-yeh"/>
+    <contour>
+      <point x="388" y="600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="480" y="-400" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

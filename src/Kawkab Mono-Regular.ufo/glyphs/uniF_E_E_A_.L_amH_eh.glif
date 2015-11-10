@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEEA.LamHeh" format="1">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="700" y="-71" type="line"/>
+      <point x="679" y="-34"/>
+      <point x="676" y="51"/>
+      <point x="673" y="186" type="curve" smooth="yes"/>
+      <point x="670" y="310"/>
+      <point x="669" y="425"/>
+      <point x="669" y="492" type="curve"/>
+      <point x="535" y="447" type="line"/>
+      <point x="555" y="371" type="line"/>
+      <point x="521" y="352"/>
+      <point x="436" y="303"/>
+      <point x="360" y="222" type="curve" smooth="yes"/>
+      <point x="269" y="125"/>
+      <point x="262" y="58"/>
+      <point x="262" y="29" type="curve" smooth="yes"/>
+      <point x="262" y="-3"/>
+      <point x="270" y="-21"/>
+      <point x="305" y="-37" type="curve" smooth="yes"/>
+      <point x="365" y="-65"/>
+      <point x="489" y="-82"/>
+      <point x="545" y="-45" type="curve"/>
+      <point x="586" y="13" type="line"/>
+      <point x="604" y="-82"/>
+      <point x="642" y="-171"/>
+      <point x="700" y="-216" type="curve"/>
+    </contour>
+    <contour>
+      <point x="373" y="74"/>
+      <point x="350" y="85"/>
+      <point x="396" y="138" type="curve" smooth="yes"/>
+      <point x="458" y="210"/>
+      <point x="562" y="265"/>
+      <point x="574" y="271" type="curve"/>
+      <point x="583" y="187"/>
+      <point x="586" y="149"/>
+      <point x="583" y="90" type="curve"/>
+      <point x="531" y="78"/>
+      <point x="488" y="74"/>
+      <point x="445" y="74" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="400" y="660" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="490" y="-266" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFECE" format="1">
+  <advance width="700"/>
+  <unicode hex="FECE"/>
+  <outline>
+    <component base="uniFBB2" xOffset="27" yOffset="39"/>
+    <component base="uniFECA"/>
+    <contour>
+      <point x="420" y="950" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="593" y="-500" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

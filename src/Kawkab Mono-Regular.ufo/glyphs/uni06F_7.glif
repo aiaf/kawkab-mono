@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06F7" format="1">
+  <advance width="700"/>
+  <unicode hex="06F7"/>
+  <outline>
+    <component base="uni0667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven-ar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven-ar</string>
+    </dict>
+  </lib>
+</glyph>

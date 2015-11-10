@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heart" format="1">
+  <advance width="700"/>
+  <unicode hex="2665"/>
+  <note>
+	heart
+  </note>
+  <outline>
+    <contour>
+      <point x="329" y="70"/>
+      <point x="302" y="121"/>
+      <point x="187" y="274" type="curve" smooth="yes"/>
+      <point x="143" y="331"/>
+      <point x="118" y="367"/>
+      <point x="107" y="382" type="curve" smooth="yes"/>
+      <point x="75" y="430"/>
+      <point x="62" y="470"/>
+      <point x="62" y="512" type="curve" smooth="yes"/>
+      <point x="62" y="591"/>
+      <point x="120" y="651"/>
+      <point x="198" y="651" type="curve" smooth="yes"/>
+      <point x="274" y="651"/>
+      <point x="324" y="598"/>
+      <point x="351" y="518" type="curve"/>
+      <point x="375" y="607"/>
+      <point x="435" y="652"/>
+      <point x="501" y="652" type="curve" smooth="yes"/>
+      <point x="577" y="652"/>
+      <point x="638" y="590"/>
+      <point x="638" y="519" type="curve" smooth="yes"/>
+      <point x="638" y="455"/>
+      <point x="614" y="396"/>
+      <point x="525" y="283" type="curve" smooth="yes"/>
+      <point x="409" y="138"/>
+      <point x="373" y="70"/>
+      <point x="351" y="-13" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

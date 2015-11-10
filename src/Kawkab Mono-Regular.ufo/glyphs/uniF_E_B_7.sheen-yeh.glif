@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEB7.sheen-yeh" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="uniFEB3.seen-yeh"/>
+    <component base="uniFBB6" xOffset="110" yOffset="380"/>
+    <contour>
+      <point x="390" y="1010" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="408" y="-94" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

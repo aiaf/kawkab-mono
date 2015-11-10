@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE86.waw-alef" format="1">
+  <advance width="700"/>
+  <outline>
+    <component base="uni0654" xOffset="-156" yOffset="159" xScale="0.826" yScale="0.826"/>
+    <component base="uniFEEE.waw-alef"/>
+    <contour>
+      <point x="200" y="1000" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="310" y="-430" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
