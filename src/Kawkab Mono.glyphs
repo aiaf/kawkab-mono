@@ -9,7 +9,7 @@ code = "alefMaksura-ar.fina.seen-yeh yeh-ar.fina.seen-yeh yehHamzaabove-ar.fina.
 name = YEH_FINALS_SEEN_YEH;
 }
 );
-copyright = "Copyright (c) 2015, Abdullah Arif (abdullah.a@gmail.com), with Reserved Font Name 'Kawkab Mono'. Non-Arabic Portions Copyright (c) 2009, ParaType Ltd. All Rights Reserved.";
+copyright = "Copyright (c) 2015, Abdullah Arif (abdullah.a@gmail.com). Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. All Rights Reserved. Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.";
 customParameters = (
 {
 name = isFixedPitch;
